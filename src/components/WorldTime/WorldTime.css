@@ -1,0 +1,8 @@
+.world-time{
+  width: 700px;
+  height: 400px;
+  margin-top: 50px;
+
+  border: 10px solid rgba(120, 120, 120, 0.5);
+  border-radius: 15px;
+}

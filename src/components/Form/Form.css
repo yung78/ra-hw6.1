@@ -1,0 +1,40 @@
+label {
+  margin-bottom: 10px;
+
+  display: block;
+  text-align: center;
+}
+
+.clock-form {
+  width: 600px;
+  height: 100px;
+  padding: 30px 50px 30px 50px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-around;
+}
+
+.place, .timeZone {
+  width: 200px;
+  height: 40px;
+  padding: 0;
+
+  border: solid 2px rgb(120, 120, 120);
+  border-radius: 10px;
+  outline: none;
+
+  font-size: 18px;
+  text-align: center;
+}
+
+.btn {
+  width: 80px;
+  height: 44px;
+  margin-top: 27px;
+  padding: 0;
+
+  border: solid 2px rgb(120, 120, 120);
+  border-radius: 10px;
+}
